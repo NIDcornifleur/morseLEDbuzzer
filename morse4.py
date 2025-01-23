@@ -1,4 +1,4 @@
-#Type ton code !   par Roméo St-Cyr ...jan.2025
+#Type ton code !   par CharlyDelta ...jan.2025
 import time
 from rpi_ws281x import PixelStrip, Color
 from gpiozero import Buzzer
